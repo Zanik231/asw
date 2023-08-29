@@ -1,0 +1,6 @@
+IMPROVEMENT:
+LAST HOPE
+Grenades from an underbarrel grenade 
+launcher cause additional damage 
+after an explosion fragments 
+over a large area.

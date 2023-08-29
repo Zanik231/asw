@@ -1,0 +1,3 @@
+PASSIVE
+Increase weapon damage if
+health is lower 20%.

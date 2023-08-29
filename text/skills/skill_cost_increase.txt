@@ -1,0 +1,3 @@
+PASSIVE
+Increased the cost of selling 
+equipment to a merchant.

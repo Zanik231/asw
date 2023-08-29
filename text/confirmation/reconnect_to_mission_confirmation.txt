@@ -1,0 +1,3 @@
+The connection was interrupted.
+Do you want to reconnect
+and get back into the fight?

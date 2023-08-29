@@ -1,0 +1,3 @@
+Greatly increased magazine size
+(activity time for drones),
+decreased rate of fire.

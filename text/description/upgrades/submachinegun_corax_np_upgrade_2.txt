@@ -1,0 +1,3 @@
+IMPROVEMENT:
+Redused magazine size,
+fast reloading speed.

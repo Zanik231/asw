@@ -1,0 +1,4 @@
+-drag the joystick icon 
+ to move
+
+-tap the screen to fire

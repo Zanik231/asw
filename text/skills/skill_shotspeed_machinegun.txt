@@ -1,0 +1,3 @@
+PASSIVE
+Increase the machine guns
+rate of fire.

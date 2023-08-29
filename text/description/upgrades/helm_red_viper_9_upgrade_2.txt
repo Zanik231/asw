@@ -1,0 +1,3 @@
+IMPROVEMENT:
+Greatly increased abilities 
+recovery speed.

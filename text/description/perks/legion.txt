@@ -1,0 +1,2 @@
+Weapon damage increases next
+to allies.

@@ -1,0 +1,3 @@
+PASSIVE
+Increase the submachine guns
+rate of fire.

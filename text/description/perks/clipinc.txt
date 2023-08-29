@@ -1,0 +1,2 @@
+Increased magazine size
+(activity time for drones).

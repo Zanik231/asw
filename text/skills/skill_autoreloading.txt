@@ -1,0 +1,4 @@
+ACTIVE
+When module is active
+all weapons in it's radius
+reloading faster.

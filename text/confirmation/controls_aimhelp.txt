@@ -1,0 +1,2 @@
+indicate the direction to conduct automatic shooting
+in the specified sector

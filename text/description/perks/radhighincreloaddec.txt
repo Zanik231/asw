@@ -1,0 +1,2 @@
+Greatly increased explosion radius,
+slow reloading.

@@ -1,0 +1,17 @@
+MISSION:
+AT-220 laboratory
+
+DESCRIPTION:
+The laboratory complex
+is equipped with a modern
+multi-level protection system.
+It is necessary to disable
+protection at each level
+and get into the archive.
+
+RECOMMENDATIONS:
+Each level uses a
+unique encryption system.
+The symbols indicated
+on the special device
+will help to disable the protection system.

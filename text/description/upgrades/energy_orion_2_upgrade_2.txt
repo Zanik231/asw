@@ -1,0 +1,4 @@
+IMPROVEMENT:
+Killing with this weapon increases
+explosion radius of the projectiles
+for the short time.

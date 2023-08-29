@@ -1,0 +1,3 @@
+Killing with this weapon
+generate electric fields that 
+cause damage to enemies.

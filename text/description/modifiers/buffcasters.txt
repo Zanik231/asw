@@ -1,0 +1,2 @@
+Increased damage from special
+enemies' abilities.

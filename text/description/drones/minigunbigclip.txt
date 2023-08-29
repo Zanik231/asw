@@ -1,0 +1,5 @@
+Heavy magazine
+
+Due to the strengthening of the return lever designs, drones of 
+this subclass are able to shoot larger caliber bullets.
+

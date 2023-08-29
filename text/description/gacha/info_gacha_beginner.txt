@@ -1,0 +1,25 @@
+Recruit code is the standart code. It hasn't time limits.
+In recruit code there are avaliable not excluzive legendary equipment.
+10 recruit codes cost 20% less uranium power units. Also with first 10 codes you are surely get legendary 
+started class sub machine gun COPAX NP, and the legendary first or started class equipment with next 10 codes!
+The recruit code ends after 20 attempts. The code page will become unavailable when recruit codes will be ended.
+
+Reguilary basic probability of receiving of all equipment is distributed evenly.
+Read special rules if any conditions or guarantees apply.
+
+Rules.
+Basic probability of dropping legendary first class equipment = 0,600%.
+Basic probability of dropping legendary starter class equipment = 5,100%, the total probability 
+(including the guaranteed prize) = 13,000%. Guaranteed drop of legendary start and higher class 
+equipment at least once in 10 attempts.
+
+Duplicates.
+If you have recurring legendary equipment of the first class, then from 2 to 7 they are converted into 
+increased equipment level. For 8 and more repetitive equipment of the first class
+you can get x25 Plutonium isotopes.
+If you have recurring legendary equipment of the start class, then from 2 to 7 they are converted into 
+increased equipment level. For 8 and more repetitive equipment of the initial class 
+you can get x5 Plutonium isotopes.
+
+This is the rookie code. The number of guaranteed attempts for it is calculated separately 
+and does not affect the number of guaranteed attempts of other codes.

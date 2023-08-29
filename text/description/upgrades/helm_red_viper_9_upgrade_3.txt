@@ -1,0 +1,4 @@
+IMPROVEMENT:
+BOUNTY HUNTER
+Grenades now set enemies 
+on fire after an explosion.

@@ -1,0 +1,4 @@
+Heavy auto rifles
+
+Have increased damage, reduced rate of fire 
+and slow reload speed. 

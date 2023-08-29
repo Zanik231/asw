@@ -1,0 +1,6 @@
+Heavy laser
+
+In the design of drones of this subclass, laser rods of increased 
+diameter are used, which is why drones cause increased damage to 
+the enemy.
+

@@ -1,0 +1,2 @@
+PASSIVE
+Increase speed when full health.

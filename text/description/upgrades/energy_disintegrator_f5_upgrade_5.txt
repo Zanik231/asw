@@ -1,0 +1,3 @@
+IMPROVEMENT:
+Killing with this weapon 
+recovery health.

@@ -1,0 +1,5 @@
+IMPROVEMENT:
+SEARCH SCANNER
+After the mine explodes, 
+an electric field remains and 
+causes periodic damage to enemies.

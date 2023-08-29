@@ -1,0 +1,3 @@
+PASSIVE
+Increase the rocket and
+grenade launchers rate of fire.

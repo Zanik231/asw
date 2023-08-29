@@ -1,0 +1,4 @@
+IMPROVEMENT:
+SHELL OF HERMIT 
+The invulnerability shield deals 
+huge damage to enemies.

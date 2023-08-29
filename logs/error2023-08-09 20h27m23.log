@@ -1,0 +1,925 @@
+----< 2023-08-09 20:27:23 >----< D:\Games\asw\MapEdit.exe (Cr-1981-01-01 01:01:02 La-1981-01-01 01:01:02 Lw-1981-01-01 01:01:02) >----
+WindowsUserPath is ''
+Enum Driver: Первичный видеодрайвер - display VideoMemory=-65536
+    Enum display modes 640x480 X8R8G8B8 - selected
+    Enum display modes 720x400 X8R8G8B8
+    Enum display modes 800x600 X8R8G8B8 - selected
+    Enum display modes 832x624 X8R8G8B8
+    Enum display modes 1024x768 X8R8G8B8 - selected
+    Enum display modes 1128x634 X8R8G8B8
+    Enum display modes 1152x872 X8R8G8B8
+    Enum display modes 1280x720 X8R8G8B8
+    Enum display modes 1280x800 X8R8G8B8
+    Enum display modes 1280x1024 X8R8G8B8 - selected
+    Enum display modes 1366x768 X8R8G8B8
+    Enum display modes 1600x900 X8R8G8B8
+    Enum display modes 1680x1050 X8R8G8B8
+    Enum display modes 1760x990 X8R8G8B8
+    Enum display modes 1920x1080 X8R8G8B8
+    Enum display modes 640x480 R5G6B5 - selected
+    Enum display modes 720x400 R5G6B5
+    Enum display modes 800x600 R5G6B5 - selected
+    Enum display modes 832x624 R5G6B5
+    Enum display modes 1024x768 R5G6B5 - selected
+    Enum display modes 1128x634 R5G6B5
+    Enum display modes 1152x872 R5G6B5
+    Enum display modes 1280x720 R5G6B5
+    Enum display modes 1280x800 R5G6B5
+    Enum display modes 1280x1024 R5G6B5 - selected
+    Enum display modes 1366x768 R5G6B5
+    Enum display modes 1600x900 R5G6B5
+    Enum display modes 1680x1050 R5G6B5
+    Enum display modes 1760x990 R5G6B5
+    Enum display modes 1920x1080 R5G6B5
+    Enum display modes 640x480 P8
+    Enum display modes 720x400 P8
+    Enum display modes 800x600 P8
+    Enum display modes 832x624 P8
+    Enum display modes 1024x768 P8
+    Enum display modes 1128x634 P8
+    Enum display modes 1152x872 P8
+    Enum display modes 1280x720 P8
+    Enum display modes 1280x800 P8
+    Enum display modes 1280x1024 P8
+    Enum display modes 1366x768 P8
+    Enum display modes 1600x900 P8
+    Enum display modes 1680x1050 P8
+    Enum display modes 1760x990 P8
+    Enum display modes 1920x1080 P8
+Enum Driver: Radeon (TM) RX 470 Graphics - \\.\DISPLAY1 VideoMemory=-65536
+    Enum display modes 640x480 X8R8G8B8 - selected
+    Enum display modes 720x400 X8R8G8B8
+    Enum display modes 800x600 X8R8G8B8 - selected
+    Enum display modes 832x624 X8R8G8B8
+    Enum display modes 1024x768 X8R8G8B8 - selected
+    Enum display modes 1128x634 X8R8G8B8
+    Enum display modes 1152x872 X8R8G8B8
+    Enum display modes 1280x720 X8R8G8B8
+    Enum display modes 1280x800 X8R8G8B8
+    Enum display modes 1280x1024 X8R8G8B8 - selected
+    Enum display modes 1366x768 X8R8G8B8
+    Enum display modes 1600x900 X8R8G8B8
+    Enum display modes 1680x1050 X8R8G8B8
+    Enum display modes 1760x990 X8R8G8B8
+    Enum display modes 1920x1080 X8R8G8B8
+    Enum display modes 640x480 R5G6B5 - selected
+    Enum display modes 720x400 R5G6B5
+    Enum display modes 800x600 R5G6B5 - selected
+    Enum display modes 832x624 R5G6B5
+    Enum display modes 1024x768 R5G6B5 - selected
+    Enum display modes 1128x634 R5G6B5
+    Enum display modes 1152x872 R5G6B5
+    Enum display modes 1280x720 R5G6B5
+    Enum display modes 1280x800 R5G6B5
+    Enum display modes 1280x1024 R5G6B5 - selected
+    Enum display modes 1366x768 R5G6B5
+    Enum display modes 1600x900 R5G6B5
+    Enum display modes 1680x1050 R5G6B5
+    Enum display modes 1760x990 R5G6B5
+    Enum display modes 1920x1080 R5G6B5
+    Enum display modes 640x480 P8
+    Enum display modes 720x400 P8
+    Enum display modes 800x600 P8
+    Enum display modes 832x624 P8
+    Enum display modes 1024x768 P8
+    Enum display modes 1128x634 P8
+    Enum display modes 1152x872 P8
+    Enum display modes 1280x720 P8
+    Enum display modes 1280x800 P8
+    Enum display modes 1280x1024 P8
+    Enum display modes 1366x768 P8
+    Enum display modes 1600x900 P8
+    Enum display modes 1680x1050 P8
+    Enum display modes 1760x990 P8
+    Enum display modes 1920x1080 P8
+WM_PAINT
+Selected display mode 1280x1024 X8R8G8B8 desktop X8R8G8B8
+Enum zbuffer format ZBUFFER16 FFFF selected
+Enum zbuffer format ZBUFFER16 FFFF selected
+Enum zbuffer format ZBUFFER32 FFFFFF
+Enum zbuffer format STENCILBUFFER Z32 FFFFFF  S8 FF000000
+Enum zbuffer format ZBUFFER24 FFFFFF
+Enum texture format RGB 555 selected
+Enum texture format ARGB 1555
+Enum texture format ARGB 4444 selected
+Enum texture format RGB 565 selected
+Enum texture format RGB 888
+Enum texture format ARGB 8888
+Enum texture format ! 000
+Enum texture format LUMINANCE L 800
+Enum texture format BUMP UV880
+Enum texture format BUMP UVL 888
+Enum texture format DXT1 000
+Enum texture format DXT2 000
+Enum texture format DXT3 000
+Enum texture format DXT4 000
+Enum texture format DXT5 000
+Enum texture format ATI1 000
+Enum texture format ATI2 000
+Enum texture format LUMINANCE AL 4400
+Enum texture format LUMINANCE AL 8800
+Enum texture format RESZ 000
+Enum texture format DF16 000
+Enum texture format DS16 000
+Enum texture format DF24 000
+Enum texture format INTZ 000
+Enum texture format NULL 000
+Enum texture format ALPHA 000
+SetViewPort (0,20) - (1280,1024)
+Op=mod Arg1=tex Arg2=cur AOp=sel1 Arg1=tex Arg2=cur
+Op=mod Arg1=tex Arg2=dif AOp=mod Arg1=tex Arg2=dif
+TextureCaps=NOTPOWER2 MAXSIZE=16384,16384
+caps=HARDWARE AGP DOUBLEBUFFER DOTPRODUCT3 COLOR32 VSYNC PIXELSHADER=0
+Pitch=5120 zPitch=2560
+WM_PAINT
+!!!ERROR 20:27:24!!!SOUND: 0x80070057 Couldn't create the SoundBuffer
+!!!ERROR 20:27:24!!!SOUND: 0x80070057 Couldn't create the SoundBuffer
+!!!ERROR 20:27:24!!!SOUND: 0x80070057 Couldn't create the SoundBuffer
+LoadSFX::No   =229               sizeof(SFX)   =112      load time     =1632  ms Quality        =1
+LoadWeapon::No=258               sizeof(WEAPON)=572 
+!!!ERROR 20:27:25!!!RES 'vid\loading.png' '
+': 0x0 Invalid resource signature
+LOAD::Can't open file vid\loading.png
+!!!ERROR 20:27:25!!!VID [2-ШРИФТ белый bold 38]: 0xFFFFFFFF Invalid noCadr < noDir
+!!!ERROR 20:27:25!!!VID [3-ШРИФТ зеленый bold 55]: 0x0 Invalid noCadr==0
+!!!ERROR 20:27:25!!!VID [3-ШРИФТ зеленый bold 55]: 0 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:25!!!VID [4-ШРИФТ белый bold 45]: 0xFFFFFFFF Invalid noCadr < noDir
+!!!ERROR 20:27:25!!!VID [5-ШРИФТ белый bold 48]: 0x0 Invalid noCadr==0
+!!!ERROR 20:27:25!!!VID [5-ШРИФТ белый bold 48]: 0 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:25!!!VID [6-ШРИФТ красный bold 45.5]: 0x0 Invalid noCadr==0
+!!!ERROR 20:27:25!!!VID [6-ШРИФТ красный bold 45.5]: 0 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:25!!!VID [7-ШРИФТ серый disabled bold 50.5]: 0x0 Invalid noCadr==0
+!!!ERROR 20:27:25!!!VID [7-ШРИФТ серый disabled bold 50.5]: 0 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:25!!!VID [8-ШРИФТ белый bold  50.5]: 0x0 Invalid noCadr==0
+!!!ERROR 20:27:25!!!VID [8-ШРИФТ белый bold  50.5]: 0 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:26!!!VID [32-ШРИФТ белый medium 28]: 0x6 Invalid noCadr < noDir
+!!!ERROR 20:27:26!!!VID [33-ШРИФТ зелёный medium 48]: 0x0 Invalid noCadr==0
+!!!ERROR 20:27:26!!!VID [33-ШРИФТ зелёный medium 48]: 0 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:26!!!VID [34-ШРИФТ белый bold 36]: 0x0 Invalid noCadr==0
+!!!ERROR 20:27:26!!!VID [34-ШРИФТ белый bold 36]: 0 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:26!!!VID [39-ШРИФТ красный малый 35.5]: 0x85 Invalid noCadr < noDir
+!!!ERROR 20:27:26!!!VID [94-ШРИФТ зеленый bold 41]: 0xFFFFFF03 Invalid noCadr < noDir
+!!!ERROR 20:27:26!!!VID [95-ШРИФТ зеленый bold 36]: 0xFFFF9904 Invalid noCadr < noDir
+!!!ERROR 20:27:26!!!VID [97-ШРИФТ красный bold 50.5 мигающий]: 0xFFFFFF03 Invalid noCadr < noDir
+!!!ERROR 20:27:27!!!VID [230-HIDE:Авиа-бомба без дамага]: 3 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:27!!!VID [236-ШРИФТ красный bold БОЛЬШОЙ]: 0xFFFFC103 Invalid noCadr < noDir
+!!!ERROR 20:27:27!!!VID [237-ШРИФТ серый disabled bold 31]: 0xFFFFC103 Invalid noCadr < noDir
+!!!ERROR 20:27:27!!!VID [238-ШРИФТ красный bold 36]: 0x9 Invalid noCadr < noDir
+!!!ERROR 20:27:27!!!VID [243-ШРИФТ красный МИГАЮЩИЙ bold 35]: 0xC4 Invalid noCadr < noDir
+!!!ERROR 20:27:27!!!VID [248-ШРИФТ зеленый medium 50.5]: 0x0 Invalid noCadr==0
+!!!ERROR 20:27:27!!!VID [248-ШРИФТ зеленый medium 50.5]: 0 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:27!!!VID [279-ШРИФТ белый medium 0.375]: 0xFFFFFE6F Invalid noCadr < noDir
+!!!ERROR 20:27:27!!!RES 'story\addon1\end_1024x768_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\end_1024x768_00.png
+!!!ERROR 20:27:27!!!RES 'story\addon1\end_1024x768_01.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\end_1024x768_01.png
+!!!ERROR 20:27:27!!!RES 'story\addon1\end_1024x768_02.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\end_1024x768_02.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\end_1024x768_03.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\end_1024x768_03.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\end_720x480_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\end_720x480_00.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\end_720x480_01.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\end_720x480_01.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\end_720x480_02.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\end_720x480_02.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\end_720x480_03.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\end_720x480_03.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\end_852x480_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\end_852x480_00.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\end_852x480_01.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\end_852x480_01.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\end_852x480_02.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\end_852x480_02.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\end_852x480_03.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\end_852x480_03.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\story_1024x768_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\story_1024x768_00.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\story_1024x768_01.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\story_1024x768_01.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\story_1024x768_02.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\story_1024x768_02.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\story_1024x768_03.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\story_1024x768_03.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\story_1024x768_04.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\story_1024x768_04.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\story_720x480_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\story_720x480_00.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\story_720x480_01.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\story_720x480_01.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\story_720x480_02.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\story_720x480_02.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\story_720x480_03.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\story_720x480_03.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\story_720x480_04.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\story_720x480_04.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\story_852x480_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\story_852x480_00.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\story_852x480_01.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\story_852x480_01.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\story_852x480_02.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\story_852x480_02.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\story_852x480_03.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\story_852x480_03.png
+!!!ERROR 20:27:28!!!RES 'story\addon1\story_852x480_04.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon1\story_852x480_04.png
+!!!ERROR 20:27:28!!!VID [438-ШРИФТ белый semibold 45.5]: 0x9 Invalid noCadr < noDir
+!!!ERROR 20:27:28!!!VID [449-Fx на рождение монстров БОЛЬШОЙ]: 40 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:28!!!RES 'story\addon2\end_1024x768_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\end_1024x768_00.png
+!!!ERROR 20:27:28!!!RES 'story\addon2\end_1024x768_01.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\end_1024x768_01.png
+!!!ERROR 20:27:28!!!RES 'story\addon2\end_1024x768_02.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\end_1024x768_02.png
+!!!ERROR 20:27:28!!!RES 'story\addon2\end_720x480_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\end_720x480_00.png
+!!!ERROR 20:27:28!!!RES 'story\addon2\end_720x480_01.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\end_720x480_01.png
+!!!ERROR 20:27:28!!!RES 'story\addon2\end_720x480_02.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\end_720x480_02.png
+!!!ERROR 20:27:28!!!RES 'story\addon2\end_852x480_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\end_852x480_00.png
+!!!ERROR 20:27:28!!!RES 'story\addon2\end_852x480_01.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\end_852x480_01.png
+!!!ERROR 20:27:29!!!RES 'story\addon2\end_852x480_02.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\end_852x480_02.png
+!!!ERROR 20:27:29!!!RES 'story\addon2\story_1024x768_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\story_1024x768_00.png
+!!!ERROR 20:27:29!!!RES 'story\addon2\story_1024x768_01.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\story_1024x768_01.png
+!!!ERROR 20:27:29!!!RES 'story\addon2\story_1024x768_02.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\story_1024x768_02.png
+!!!ERROR 20:27:29!!!RES 'story\addon2\story_1024x768_03.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\story_1024x768_03.png
+!!!ERROR 20:27:29!!!RES 'story\addon2\story_1024x768_04.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\story_1024x768_04.png
+!!!ERROR 20:27:29!!!RES 'story\addon2\story_720x480_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\story_720x480_00.png
+!!!ERROR 20:27:29!!!RES 'story\addon2\story_720x480_01.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\story_720x480_01.png
+!!!ERROR 20:27:29!!!RES 'story\addon2\story_720x480_02.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\story_720x480_02.png
+!!!ERROR 20:27:29!!!RES 'story\addon2\story_720x480_03.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\story_720x480_03.png
+!!!ERROR 20:27:29!!!RES 'story\addon2\story_720x480_04.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\story_720x480_04.png
+!!!ERROR 20:27:29!!!RES 'story\addon2\story_852x480_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\story_852x480_00.png
+!!!ERROR 20:27:29!!!RES 'story\addon2\story_852x480_01.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\story_852x480_01.png
+!!!ERROR 20:27:29!!!RES 'story\addon2\story_852x480_02.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\story_852x480_02.png
+!!!ERROR 20:27:29!!!RES 'story\addon2\story_852x480_03.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\story_852x480_03.png
+!!!ERROR 20:27:29!!!RES 'story\addon2\story_852x480_04.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file story\addon2\story_852x480_04.png
+!!!ERROR 20:27:29!!!PICTURE 'menus\inventory\frame_inventory_resources_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\inventory\frame_inventory_resources_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\inventory\frame_inventory_resources_empty.bmp'
+LOAD::Can't open file menus\inventory\frame_inventory_resources_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_merchant_item_info_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_merchant_item_info_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_merchant_item_info_empty.bmp'
+LOAD::Can't open file menus\frame_merchant_item_info_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\merchant\frame_merchant_item_slider.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\merchant\frame_merchant_item_slider.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\merchant\frame_merchant_item_slider.bmp'
+LOAD::Can't open file menus\merchant\frame_merchant_item_slider.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\merchant\frame_merchant_slot.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\merchant\frame_merchant_slot.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\merchant\frame_merchant_slot.bmp'
+LOAD::Can't open file menus\merchant\frame_merchant_slot.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_merchant_item_info_details_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_merchant_item_info_details_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_merchant_item_info_details_empty.bmp'
+LOAD::Can't open file menus\frame_merchant_item_info_details_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_item_info_details_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_item_info_details_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_item_info_details_empty.bmp'
+LOAD::Can't open file menus\frame_item_info_details_empty.bmp
+!!!ERROR 20:27:29!!!VID [490-ШРИФТ белый medium 27]: 0xFFFF9506 Invalid noCadr < noDir
+!!!ERROR 20:27:29!!!PICTURE 'menus\decoder\frame_decoder_item_slider.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\decoder\frame_decoder_item_slider.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\decoder\frame_decoder_item_slider.bmp'
+LOAD::Can't open file menus\decoder\frame_decoder_item_slider.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\decoder\frame_decoder_slot.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\decoder\frame_decoder_slot.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\decoder\frame_decoder_slot.bmp'
+LOAD::Can't open file menus\decoder\frame_decoder_slot.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\decoder\frame_crate_content.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\decoder\frame_crate_content.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\decoder\frame_crate_content.bmp'
+LOAD::Can't open file menus\decoder\frame_crate_content.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\skills\frame_skills_dna_progress_bar_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\skills\frame_skills_dna_progress_bar_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\skills\frame_skills_dna_progress_bar_empty.bmp'
+LOAD::Can't open file menus\skills\frame_skills_dna_progress_bar_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gamebar\frame_gamebar_grandmaster_timer_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gamebar\frame_gamebar_grandmaster_timer_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gamebar\frame_gamebar_grandmaster_timer_empty.bmp'
+LOAD::Can't open file menus\gamebar\frame_gamebar_grandmaster_timer_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gamebar\frame_gamebar_grandmaster_resurrection_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gamebar\frame_gamebar_grandmaster_resurrection_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gamebar\frame_gamebar_grandmaster_resurrection_empty.bmp'
+LOAD::Can't open file menus\gamebar\frame_gamebar_grandmaster_resurrection_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\journal\frame_journal_info_description.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\journal\frame_journal_info_description.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\journal\frame_journal_info_description.bmp'
+LOAD::Can't open file menus\journal\frame_journal_info_description.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\journal\frame_journal_info_description_seal_deed_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\journal\frame_journal_info_description_seal_deed_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\journal\frame_journal_info_description_seal_deed_empty.bmp'
+LOAD::Can't open file menus\journal\frame_journal_info_description_seal_deed_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\journal\frame_journal_info_description_seal_reward_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\journal\frame_journal_info_description_seal_reward_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\journal\frame_journal_info_description_seal_reward_empty.bmp'
+LOAD::Can't open file menus\journal\frame_journal_info_description_seal_reward_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\inventory\frame_inventory_item_info_parameters_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\inventory\frame_inventory_item_info_parameters_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\inventory\frame_inventory_item_info_parameters_empty.bmp'
+LOAD::Can't open file menus\inventory\frame_inventory_item_info_parameters_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\roadmap\frame_roadmap_slot_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\roadmap\frame_roadmap_slot_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\roadmap\frame_roadmap_slot_empty.bmp'
+LOAD::Can't open file menus\roadmap\frame_roadmap_slot_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\roadmap\frame_roadmap_two_slots.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\roadmap\frame_roadmap_two_slots.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\roadmap\frame_roadmap_two_slots.bmp'
+LOAD::Can't open file menus\roadmap\frame_roadmap_two_slots.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gamebar\frame_gamebar_top_info_wave_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gamebar\frame_gamebar_top_info_wave_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gamebar\frame_gamebar_top_info_wave_empty.bmp'
+LOAD::Can't open file menus\gamebar\frame_gamebar_top_info_wave_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_map_story_level_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_map_story_level_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_map_story_level_empty.bmp'
+LOAD::Can't open file menus\frame_map_story_level_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_map_secondary_level_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_map_secondary_level_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_map_secondary_level_empty.bmp'
+LOAD::Can't open file menus\frame_map_secondary_level_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\mission\frame_mission_daily_task_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\mission\frame_mission_daily_task_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\mission\frame_mission_daily_task_empty.bmp'
+LOAD::Can't open file menus\mission\frame_mission_daily_task_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gamebar\frame_gamebar_money_found_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gamebar\frame_gamebar_money_found_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gamebar\frame_gamebar_money_found_empty.bmp'
+LOAD::Can't open file menus\gamebar\frame_gamebar_money_found_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gamebar\frame_gamebar_top_info_collected_parts.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gamebar\frame_gamebar_top_info_collected_parts.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gamebar\frame_gamebar_top_info_collected_parts.bmp'
+LOAD::Can't open file menus\gamebar\frame_gamebar_top_info_collected_parts.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gamebar\frame_gamebar_top_info_collected_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gamebar\frame_gamebar_top_info_collected_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gamebar\frame_gamebar_top_info_collected_empty.bmp'
+LOAD::Can't open file menus\gamebar\frame_gamebar_top_info_collected_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_addon_button_locked_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_addon_button_locked_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_addon_button_locked_empty.bmp'
+LOAD::Can't open file menus\frame_addon_button_locked_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gamebar\frame_gamebar_revive_status_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gamebar\frame_gamebar_revive_status_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gamebar\frame_gamebar_revive_status_empty.bmp'
+LOAD::Can't open file menus\gamebar\frame_gamebar_revive_status_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_confirmation_2_screen_all.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_confirmation_2_screen_all.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_confirmation_2_screen_all.bmp'
+LOAD::Can't open file menus\frame_confirmation_2_screen_all.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_confirmation_2.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_confirmation_2.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_confirmation_2.bmp'
+LOAD::Can't open file menus\frame_confirmation_2.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_confirmation_screen_all.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_confirmation_screen_all.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_confirmation_screen_all.bmp'
+LOAD::Can't open file menus\frame_confirmation_screen_all.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\inventory\frame_inventory_item_info_buttons.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\inventory\frame_inventory_item_info_buttons.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\inventory\frame_inventory_item_info_buttons.bmp'
+LOAD::Can't open file menus\inventory\frame_inventory_item_info_buttons.bmp
+!!!ERROR 20:27:29!!!RES 'menus\img\market\vertical_slider_edge.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\market\vertical_slider_edge.png
+!!!ERROR 20:27:29!!!RES 'menus\img\market\horizontal_slider_edge.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\market\horizontal_slider_edge.png
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_market_parameters_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_market_parameters_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_market_parameters_empty.bmp'
+LOAD::Can't open file menus\frame_market_parameters_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_market_currency_slot.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_market_currency_slot.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_market_currency_slot.bmp'
+LOAD::Can't open file menus\frame_market_currency_slot.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_market_currency_two_slots.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_market_currency_two_slots.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_market_currency_two_slots.bmp'
+LOAD::Can't open file menus\frame_market_currency_two_slots.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_market_content.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_market_content.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_market_content.bmp'
+LOAD::Can't open file menus\frame_market_content.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gacha\frame_gacha_top_buttons_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gacha\frame_gacha_top_buttons_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gacha\frame_gacha_top_buttons_empty.bmp'
+LOAD::Can't open file menus\gacha\frame_gacha_top_buttons_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\map\frame_map_offers.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\map\frame_map_offers.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\map\frame_map_offers.bmp'
+LOAD::Can't open file menus\map\frame_map_offers.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\common\frame_header_supplies.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\common\frame_header_supplies.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\common\frame_header_supplies.bmp'
+LOAD::Can't open file menus\common\frame_header_supplies.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\common\frame_header_settings.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\common\frame_header_settings.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\common\frame_header_settings.bmp'
+LOAD::Can't open file menus\common\frame_header_settings.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\market\frame_market_slot.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\market\frame_market_slot.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\market\frame_market_slot.bmp'
+LOAD::Can't open file menus\market\frame_market_slot.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_market_two_slots.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_market_two_slots.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_market_two_slots.bmp'
+LOAD::Can't open file menus\frame_market_two_slots.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_header.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_header.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_header.bmp'
+LOAD::Can't open file menus\frame_header.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\common\frame_footer.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\common\frame_footer.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\common\frame_footer.bmp'
+LOAD::Can't open file menus\common\frame_footer.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\inventory\frame_inventory_section_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\inventory\frame_inventory_section_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\inventory\frame_inventory_section_empty.bmp'
+LOAD::Can't open file menus\inventory\frame_inventory_section_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\inventory\frame_inventory_item_slider.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\inventory\frame_inventory_item_slider.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\inventory\frame_inventory_item_slider.bmp'
+LOAD::Can't open file menus\inventory\frame_inventory_item_slider.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\inventory\frame_inventory_item_info.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\inventory\frame_inventory_item_info.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\inventory\frame_inventory_item_info.bmp'
+LOAD::Can't open file menus\inventory\frame_inventory_item_info.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gacha\frame_gacha_central.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gacha\frame_gacha_central.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gacha\frame_gacha_central.bmp'
+LOAD::Can't open file menus\gacha\frame_gacha_central.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_market_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_market_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_market_empty.bmp'
+LOAD::Can't open file menus\frame_market_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\inventory\frame_inventory_item_button.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\inventory\frame_inventory_item_button.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\inventory\frame_inventory_item_button.bmp'
+LOAD::Can't open file menus\inventory\frame_inventory_item_button.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\weaponry_left.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\weaponry_left.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\weaponry_left.bmp'
+LOAD::Can't open file menus\weaponry_left.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\weaponry_right.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\weaponry_right.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\weaponry_right.bmp'
+LOAD::Can't open file menus\weaponry_right.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\weaponry_top.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\weaponry_top.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\weaponry_top.bmp'
+LOAD::Can't open file menus\weaponry_top.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\weaponry_bottom.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\weaponry_bottom.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\weaponry_bottom.bmp'
+LOAD::Can't open file menus\weaponry_bottom.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\stat_right.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\stat_right.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\stat_right.bmp'
+LOAD::Can't open file menus\stat_right.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gacha\frame_gacha_bottom_buttons_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gacha\frame_gacha_bottom_buttons_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gacha\frame_gacha_bottom_buttons_empty.bmp'
+LOAD::Can't open file menus\gacha\frame_gacha_bottom_buttons_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\confirmations\confirmation_menu_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\confirmations\confirmation_menu_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\confirmations\confirmation_menu_empty.bmp'
+LOAD::Can't open file menus\confirmations\confirmation_menu_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\mission\mission_frame_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\mission\mission_frame_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\mission\mission_frame_empty.bmp'
+LOAD::Can't open file menus\mission\mission_frame_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gacha\frame_gacha_central_timer_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gacha\frame_gacha_central_timer_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gacha\frame_gacha_central_timer_empty.bmp'
+LOAD::Can't open file menus\gacha\frame_gacha_central_timer_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gamebar\gamebar_frame_charinfo.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gamebar\gamebar_frame_charinfo.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gamebar\gamebar_frame_charinfo.bmp'
+LOAD::Can't open file menus\gamebar\gamebar_frame_charinfo.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gamebar\gamebar_frame_weapon_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gamebar\gamebar_frame_weapon_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gamebar\gamebar_frame_weapon_empty.bmp'
+LOAD::Can't open file menus\gamebar\gamebar_frame_weapon_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gamebar\gamebar_frame_mission_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gamebar\gamebar_frame_mission_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gamebar\gamebar_frame_mission_empty.bmp'
+LOAD::Can't open file menus\gamebar\gamebar_frame_mission_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gamebar\gamebar_frame_button1_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gamebar\gamebar_frame_button1_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gamebar\gamebar_frame_button1_empty.bmp'
+LOAD::Can't open file menus\gamebar\gamebar_frame_button1_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gamebar\frame_gamebar_kill_log_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gamebar\frame_gamebar_kill_log_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gamebar\frame_gamebar_kill_log_empty.bmp'
+LOAD::Can't open file menus\gamebar\frame_gamebar_kill_log_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gamebar\gamebar_frame_armor_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gamebar\gamebar_frame_armor_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gamebar\gamebar_frame_armor_empty.bmp'
+LOAD::Can't open file menus\gamebar\gamebar_frame_armor_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_header_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_header_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_header_empty.bmp'
+LOAD::Can't open file menus\frame_header_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\mission\mission_story_frame_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\mission\mission_story_frame_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\mission\mission_story_frame_empty.bmp'
+LOAD::Can't open file menus\mission\mission_story_frame_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\options_frame.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\options_frame.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\options_frame.bmp'
+LOAD::Can't open file menus\options_frame.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\legendary_upgrades\frame_legendary_upgrades_skill_image.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\legendary_upgrades\frame_legendary_upgrades_skill_image.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\legendary_upgrades\frame_legendary_upgrades_skill_image.bmp'
+LOAD::Can't open file menus\legendary_upgrades\frame_legendary_upgrades_skill_image.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\gacha\frame_gacha_bottom_waste_resources.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gacha\frame_gacha_bottom_waste_resources.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gacha\frame_gacha_bottom_waste_resources.bmp'
+LOAD::Can't open file menus\gacha\frame_gacha_bottom_waste_resources.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_special_offer_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_special_offer_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_special_offer_empty.bmp'
+LOAD::Can't open file menus\frame_special_offer_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_daily_item.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_daily_item.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_daily_item.bmp'
+LOAD::Can't open file menus\frame_daily_item.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\addon_locked_frame.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\addon_locked_frame.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\addon_locked_frame.bmp'
+LOAD::Can't open file menus\addon_locked_frame.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\skills\frame_character_skills.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\skills\frame_character_skills.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\skills\frame_character_skills.bmp'
+LOAD::Can't open file menus\skills\frame_character_skills.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\characters_right_frame.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\characters_right_frame.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\characters_right_frame.bmp'
+LOAD::Can't open file menus\characters_right_frame.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\skills\skills_tree_line_frame.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\skills\skills_tree_line_frame.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\skills\skills_tree_line_frame.bmp'
+LOAD::Can't open file menus\skills\skills_tree_line_frame.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\skills\frame_skills_selection.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\skills\frame_skills_selection.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\skills\frame_skills_selection.bmp'
+LOAD::Can't open file menus\skills\frame_skills_selection.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\characters_right_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\characters_right_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\characters_right_empty.bmp'
+LOAD::Can't open file menus\characters_right_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\inventory\frame_inventory_perk_description_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\inventory\frame_inventory_perk_description_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\inventory\frame_inventory_perk_description_empty.bmp'
+LOAD::Can't open file menus\inventory\frame_inventory_perk_description_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_button_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_button_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_button_empty.bmp'
+LOAD::Can't open file menus\frame_button_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\legendary_upgrades\frame_legendary_upgrades_skill_button_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\legendary_upgrades\frame_legendary_upgrades_skill_button_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\legendary_upgrades\frame_legendary_upgrades_skill_button_empty.bmp'
+LOAD::Can't open file menus\legendary_upgrades\frame_legendary_upgrades_skill_button_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\frame_confirmations_open_box_info.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_confirmations_open_box_info.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_confirmations_open_box_info.bmp'
+LOAD::Can't open file menus\frame_confirmations_open_box_info.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\inventory\frame_inventory_item_ammunition_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\inventory\frame_inventory_item_ammunition_empty.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\inventory\frame_inventory_item_ammunition_empty.bmp'
+LOAD::Can't open file menus\inventory\frame_inventory_item_ammunition_empty.bmp
+!!!ERROR 20:27:29!!!PICTURE 'menus\roadmap\frame_roadmap_content.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\roadmap\frame_roadmap_content.bmp
+!!!ERROR 20:27:29!!!RES '' 'DATA': 0x0 Couldn't open 'menus\roadmap\frame_roadmap_content.bmp'
+LOAD::Can't open file menus\roadmap\frame_roadmap_content.bmp
+!!!ERROR 20:27:30!!!PICTURE 'menus\frame_market_special_offer_backpack.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_market_special_offer_backpack.bmp
+!!!ERROR 20:27:30!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_market_special_offer_backpack.bmp'
+LOAD::Can't open file menus\frame_market_special_offer_backpack.bmp
+!!!ERROR 20:27:30!!!RES 'vid\game_logo.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file vid\game_logo.png
+!!!ERROR 20:27:30!!!RES 'png\logo.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file png\logo.png
+!!!ERROR 20:27:30!!!PICTURE 'menus\frame_equip_best_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_equip_best_empty.bmp
+!!!ERROR 20:27:30!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_equip_best_empty.bmp'
+LOAD::Can't open file menus\frame_equip_best_empty.bmp
+!!!ERROR 20:27:30!!!RES 'png\credits.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file png\credits.png
+!!!ERROR 20:27:30!!!RES 'menus\img\706_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\706_00.png
+!!!ERROR 20:27:30!!!PICTURE 'menus\legendary_upgrades\frame_legendary_upgrades_button_get_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\legendary_upgrades\frame_legendary_upgrades_button_get_empty.bmp
+!!!ERROR 20:27:30!!!RES '' 'DATA': 0x0 Couldn't open 'menus\legendary_upgrades\frame_legendary_upgrades_button_get_empty.bmp'
+LOAD::Can't open file menus\legendary_upgrades\frame_legendary_upgrades_button_get_empty.bmp
+!!!ERROR 20:27:30!!!RES 'png\rateus_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file png\rateus_00.png
+!!!ERROR 20:27:30!!!RES 'png\creditsbutton.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file png\creditsbutton.png
+!!!ERROR 20:27:30!!!PICTURE 'menus\frame_universal_1.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_universal_1.bmp
+!!!ERROR 20:27:30!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_universal_1.bmp'
+LOAD::Can't open file menus\frame_universal_1.bmp
+!!!ERROR 20:27:30!!!PICTURE 'menus\frame_universal_2.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_universal_2.bmp
+!!!ERROR 20:27:30!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_universal_2.bmp'
+LOAD::Can't open file menus\frame_universal_2.bmp
+!!!ERROR 20:27:30!!!PICTURE 'menus\legendary_upgrades\frame_legendary_upgrades_left.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\legendary_upgrades\frame_legendary_upgrades_left.bmp
+!!!ERROR 20:27:30!!!RES '' 'DATA': 0x0 Couldn't open 'menus\legendary_upgrades\frame_legendary_upgrades_left.bmp'
+LOAD::Can't open file menus\legendary_upgrades\frame_legendary_upgrades_left.bmp
+!!!ERROR 20:27:30!!!PICTURE 'menus\gacha\frame_gacha_reward_resources_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gacha\frame_gacha_reward_resources_empty.bmp
+!!!ERROR 20:27:30!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gacha\frame_gacha_reward_resources_empty.bmp'
+LOAD::Can't open file menus\gacha\frame_gacha_reward_resources_empty.bmp
+!!!ERROR 20:27:30!!!RES 'menus\img\common\714.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\common\714.png
+!!!ERROR 20:27:30!!!RES 'menus\img\common\715.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\common\715.png
+!!!ERROR 20:27:30!!!RES 'menus\img\common\716_0000.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\common\716_0000.png
+!!!ERROR 20:27:30!!!RES 'menus\img\718_0000.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\718_0000.png
+!!!ERROR 20:27:30!!!PICTURE 'menus\legendary_upgrades\frame_legendary_upgrades_bottom.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\legendary_upgrades\frame_legendary_upgrades_bottom.bmp
+!!!ERROR 20:27:30!!!RES '' 'DATA': 0x0 Couldn't open 'menus\legendary_upgrades\frame_legendary_upgrades_bottom.bmp'
+LOAD::Can't open file menus\legendary_upgrades\frame_legendary_upgrades_bottom.bmp
+!!!ERROR 20:27:30!!!RES 'menus\img\720.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\720.png
+!!!ERROR 20:27:30!!!RES 'menus\img\721_0000.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\721_0000.png
+!!!ERROR 20:27:30!!!RES 'menus\img\722_0000.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\722_0000.png
+!!!ERROR 20:27:30!!!RES 'menus\img\723_0000.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\723_0000.png
+!!!ERROR 20:27:30!!!RES 'menus\img\empty_0000.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\empty_0000.png
+!!!ERROR 20:27:30!!!PICTURE 'menus\gacha\frame_gacha_attempts_count_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gacha\frame_gacha_attempts_count_empty.bmp
+!!!ERROR 20:27:30!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gacha\frame_gacha_attempts_count_empty.bmp'
+LOAD::Can't open file menus\gacha\frame_gacha_attempts_count_empty.bmp
+!!!ERROR 20:27:30!!!PICTURE 'menus\gacha\frame_gacha_reward_waste_resources_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gacha\frame_gacha_reward_waste_resources_empty.bmp
+!!!ERROR 20:27:30!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gacha\frame_gacha_reward_waste_resources_empty.bmp'
+LOAD::Can't open file menus\gacha\frame_gacha_reward_waste_resources_empty.bmp
+!!!ERROR 20:27:30!!!PICTURE 'menus\gacha\frame_gacha_info_description.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gacha\frame_gacha_info_description.bmp
+!!!ERROR 20:27:30!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gacha\frame_gacha_info_description.bmp'
+LOAD::Can't open file menus\gacha\frame_gacha_info_description.bmp
+!!!ERROR 20:27:30!!!VID [730-AMMO: Ящик призовой Stand]: 10 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:30!!!PICTURE 'menus\battle_pass\frame_battle_pass_left.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_left.bmp
+!!!ERROR 20:27:30!!!RES '' 'DATA': 0x0 Couldn't open 'menus\battle_pass\frame_battle_pass_left.bmp'
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_left.bmp
+!!!ERROR 20:27:30!!!PICTURE 'menus\battle_pass\frame_battle_pass_right.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_right.bmp
+!!!ERROR 20:27:30!!!RES '' 'DATA': 0x0 Couldn't open 'menus\battle_pass\frame_battle_pass_right.bmp'
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_right.bmp
+!!!ERROR 20:27:31!!!PICTURE 'menus\battle_pass\frame_battle_pass_center.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_center.bmp
+!!!ERROR 20:27:31!!!RES '' 'DATA': 0x0 Couldn't open 'menus\battle_pass\frame_battle_pass_center.bmp'
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_center.bmp
+!!!ERROR 20:27:31!!!PICTURE 'menus\battle_pass\frame_battle_pass_buy_level_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_buy_level_empty.bmp
+!!!ERROR 20:27:31!!!RES '' 'DATA': 0x0 Couldn't open 'menus\battle_pass\frame_battle_pass_buy_level_empty.bmp'
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_buy_level_empty.bmp
+!!!ERROR 20:27:31!!!PICTURE 'menus\battle_pass\frame_slider_battle_pass_slot.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\battle_pass\frame_slider_battle_pass_slot.bmp
+!!!ERROR 20:27:31!!!RES '' 'DATA': 0x0 Couldn't open 'menus\battle_pass\frame_slider_battle_pass_slot.bmp'
+LOAD::Can't open file menus\battle_pass\frame_slider_battle_pass_slot.bmp
+!!!ERROR 20:27:31!!!PICTURE 'menus\battle_pass\frame_battle_pass_collect_all_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_collect_all_empty.bmp
+!!!ERROR 20:27:31!!!RES '' 'DATA': 0x0 Couldn't open 'menus\battle_pass\frame_battle_pass_collect_all_empty.bmp'
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_collect_all_empty.bmp
+!!!ERROR 20:27:31!!!PICTURE 'menus\battle_pass\frame_battle_pass_buy_battlepass_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_buy_battlepass_empty.bmp
+!!!ERROR 20:27:31!!!RES '' 'DATA': 0x0 Couldn't open 'menus\battle_pass\frame_battle_pass_buy_battlepass_empty.bmp'
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_buy_battlepass_empty.bmp
+!!!ERROR 20:27:31!!!PICTURE 'menus\battle_pass\frame_battle_pass_two_slots.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_two_slots.bmp
+!!!ERROR 20:27:31!!!RES '' 'DATA': 0x0 Couldn't open 'menus\battle_pass\frame_battle_pass_two_slots.bmp'
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_two_slots.bmp
+!!!ERROR 20:27:31!!!PICTURE 'menus\battle_pass\frame_battle_pass_slot_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_slot_empty.bmp
+!!!ERROR 20:27:31!!!RES '' 'DATA': 0x0 Couldn't open 'menus\battle_pass\frame_battle_pass_slot_empty.bmp'
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_slot_empty.bmp
+!!!ERROR 20:27:31!!!VID [745-ШРИФТ жёлтый bold 45]: 0x1 Invalid noCadr < noDir
+!!!ERROR 20:27:31!!!RES 'menus\img\common\button_base_sheet_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\common\button_base_sheet_00.png
+!!!ERROR 20:27:31!!!RES 'menus\img\common\icon_decoder_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\common\icon_decoder_00.png
+!!!ERROR 20:27:31!!!RES 'menus\img\map\button_random_strike.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\map\button_random_strike.png
+!!!ERROR 20:27:31!!!PICTURE 'menus\battle_pass\frame_battle_pass_artifact_button.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_artifact_button.bmp
+!!!ERROR 20:27:31!!!RES '' 'DATA': 0x0 Couldn't open 'menus\battle_pass\frame_battle_pass_artifact_button.bmp'
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_artifact_button.bmp
+!!!ERROR 20:27:31!!!VID [797-HIDE:Fx от Плазмы]: 15 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:31!!!VID [815-ШРИФТ белый bold 48 ТЕНЬ]: 0x9 Invalid noCadr < noDir
+!!!ERROR 20:27:31!!!PICTURE 'menus\battle_pass\frame_battle_pass_xp_multiplier.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_xp_multiplier.bmp
+!!!ERROR 20:27:31!!!RES '' 'DATA': 0x0 Couldn't open 'menus\battle_pass\frame_battle_pass_xp_multiplier.bmp'
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_xp_multiplier.bmp
+!!!ERROR 20:27:31!!!PICTURE 'menus\roadmap\frame_roadmap_buy_vip_button_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\roadmap\frame_roadmap_buy_vip_button_empty.bmp
+!!!ERROR 20:27:31!!!RES '' 'DATA': 0x0 Couldn't open 'menus\roadmap\frame_roadmap_buy_vip_button_empty.bmp'
+LOAD::Can't open file menus\roadmap\frame_roadmap_buy_vip_button_empty.bmp
+!!!ERROR 20:27:32!!!PICTURE 'menus\inventory\frame_inventory_full_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\inventory\frame_inventory_full_empty.bmp
+!!!ERROR 20:27:32!!!RES '' 'DATA': 0x0 Couldn't open 'menus\inventory\frame_inventory_full_empty.bmp'
+LOAD::Can't open file menus\inventory\frame_inventory_full_empty.bmp
+!!!ERROR 20:27:32!!!VID [944-Device for Holograms Link FX white]: 942 nWeapon > noWeapon
+!!!ERROR 20:27:32!!!RES 'png\link.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file png\link.png
+!!!ERROR 20:27:32!!!RES 'png\final_large.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file png\final_large.png
+!!!ERROR 20:27:32!!!VID [975-HIDE:Fx от Плазмы]: 15 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:32!!!RES 'menus\img\976_0000.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\976_0000.png
+!!!ERROR 20:27:32!!!RES 'menus\img\977_0000.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\977_0000.png
+!!!ERROR 20:27:32!!!PICTURE 'menus\battle_pass\frame_battle_pass_roadmap_button.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_roadmap_button.bmp
+!!!ERROR 20:27:32!!!RES '' 'DATA': 0x0 Couldn't open 'menus\battle_pass\frame_battle_pass_roadmap_button.bmp'
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_roadmap_button.bmp
+!!!ERROR 20:27:32!!!PICTURE 'menus\battle_pass\frame_battle_pass_item_info.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_item_info.bmp
+!!!ERROR 20:27:32!!!RES '' 'DATA': 0x0 Couldn't open 'menus\battle_pass\frame_battle_pass_item_info.bmp'
+LOAD::Can't open file menus\battle_pass\frame_battle_pass_item_info.bmp
+!!!ERROR 20:27:33!!!VID [1049-Ферма - Бидон]: 2 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:33!!!MAP: 0x42B Load this VID already loaded
+!!!ERROR 20:27:33!!!VID [1073-Дорога - Столб лежачий]: 0x2 Invalid noCadr < noDir
+!!!ERROR 20:27:35!!!VID [1226-Город-Люк_мостовая]: 0x1 Invalid noCadr < noDir
+!!!ERROR 20:27:35!!!VID [1250-ПРИВРАТНИК Босс  Monster (Raptor) small armor]: 112 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:35!!!RES '' 'DATA': 0x0 Couldn't open 'vid\334.vid'
+LOAD::Can't open file vid\334.vid
+!!!ERROR 20:27:36!!!VID [1297-Подвал2 Колонна Верх]: 5 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:36!!!VID [1302-Подвал_стена_разрушаемая]: 0x1 Invalid noCadr < noDir
+!!!ERROR 20:27:36!!!VID [1310-хвост от плазмы минотавра]: 0x6 Invalid noCadr < noDir
+!!!ERROR 20:27:36!!!VID [1319-Босс  Monster (Raptor) small armor]: 112 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:36!!!VID [1334-Пушка ГАУСС - основа]: 0x1 Invalid noCadr < noDir
+!!!ERROR 20:27:37!!!RES 'menus\img\perks\perk_00_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\perks\perk_00_00.png
+!!!ERROR 20:27:37!!!RES 'menus\img\perks\perk_01_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\perks\perk_01_00.png
+!!!ERROR 20:27:37!!!RES 'menus\img\perks\perk_02_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\perks\perk_02_00.png
+!!!ERROR 20:27:37!!!RES 'menus\img\perks\perk_03_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\perks\perk_03_00.png
+!!!ERROR 20:27:37!!!RES 'menus\img\perks\perk_04_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\perks\perk_04_00.png
+!!!ERROR 20:27:37!!!RES 'menus\img\perks\perk_05_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\perks\perk_05_00.png
+!!!ERROR 20:27:37!!!RES 'menus\img\perks\perk_06_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\perks\perk_06_00.png
+!!!ERROR 20:27:37!!!RES 'menus\img\perks\perk_07_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\perks\perk_07_00.png
+!!!ERROR 20:27:37!!!RES 'menus\img\perks\perk_08_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\perks\perk_08_00.png
+!!!ERROR 20:27:37!!!RES 'menus\img\perks\perk_09_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\perks\perk_09_00.png
+!!!ERROR 20:27:37!!!RES 'menus\img\perks\perk_10_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\perks\perk_10_00.png
+!!!ERROR 20:27:37!!!RES 'menus\img\perks\perk_11_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\perks\perk_11_00.png
+!!!ERROR 20:27:37!!!RES 'menus\img\perks\perk_12_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\perks\perk_12_00.png
+!!!ERROR 20:27:37!!!RES 'menus\img\perks\perk_13_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\perks\perk_13_00.png
+!!!ERROR 20:27:37!!!RES 'menus\img\perks\perk_14_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\perks\perk_14_00.png
+!!!ERROR 20:27:37!!!RES 'menus\img\perks\perk_15_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\perks\perk_15_00.png
+!!!ERROR 20:27:37!!!VID [1411-Подвал3-Пол2 изчезающий]: 0x1 Invalid noCadr < noDir
+!!!ERROR 20:27:38!!!VID [1427-ПУЛЯ для SKILL_EXPLOSIVE_BULLETS  ВИДИМАЯ]: 0x1 Invalid noCadr < noDir
+!!!ERROR 20:27:38!!!VID [1451-Город-Люк_убитый]: 0x1 Invalid noCadr < noDir
+!!!ERROR 20:27:38!!!RES 'menus\img\perks\perk_16_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\perks\perk_16_00.png
+!!!ERROR 20:27:38!!!VID [1481-Неоновая вывеска_1]: 2 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:38!!!VID [1482-Неоновая вывеска_2]: 4 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:39!!!VID [1524-Босс Monster  (Tank)]: 240 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:39!!!VID [1535-Boss Raptor corpse]: 0x1 Invalid noCadr < noDir
+!!!ERROR 20:27:39!!!PICTURE 'menus\frame_joystick_size.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\frame_joystick_size.bmp
+!!!ERROR 20:27:39!!!RES '' 'DATA': 0x0 Couldn't open 'menus\frame_joystick_size.bmp'
+LOAD::Can't open file menus\frame_joystick_size.bmp
+!!!ERROR 20:27:39!!!PICTURE 'menus\gamebar\frame_gamebar_drone_status_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gamebar\frame_gamebar_drone_status_empty.bmp
+!!!ERROR 20:27:39!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gamebar\frame_gamebar_drone_status_empty.bmp'
+LOAD::Can't open file menus\gamebar\frame_gamebar_drone_status_empty.bmp
+!!!ERROR 20:27:39!!!PICTURE 'menus\gamebar\frame_gamebar_drone_status_icon_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\gamebar\frame_gamebar_drone_status_icon_empty.bmp
+!!!ERROR 20:27:39!!!RES '' 'DATA': 0x0 Couldn't open 'menus\gamebar\frame_gamebar_drone_status_icon_empty.bmp'
+LOAD::Can't open file menus\gamebar\frame_gamebar_drone_status_icon_empty.bmp
+!!!ERROR 20:27:39!!!RES 'menus\img\gamebar\grandmaster_timer_background.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\gamebar\grandmaster_timer_background.png
+!!!ERROR 20:27:39!!!RES 'menus\img\gamebar\grandmaster_resurrection_background_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\gamebar\grandmaster_resurrection_background_00.png
+!!!ERROR 20:27:40!!!VID [1643-Вход к БОССУ для данжа]: 9 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:40!!!RES 'menus\img\common\task_exclamation_icon_small_red.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\common\task_exclamation_icon_small_red.png
+!!!ERROR 20:27:40!!!PICTURE 'menus\roadmap\frame_roadmap_left_slot_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\roadmap\frame_roadmap_left_slot_empty.bmp
+!!!ERROR 20:27:40!!!RES '' 'DATA': 0x0 Couldn't open 'menus\roadmap\frame_roadmap_left_slot_empty.bmp'
+LOAD::Can't open file menus\roadmap\frame_roadmap_left_slot_empty.bmp
+!!!ERROR 20:27:40!!!PICTURE 'menus\roadmap\frame_roadmap_right_slot_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\roadmap\frame_roadmap_right_slot_empty.bmp
+!!!ERROR 20:27:40!!!RES '' 'DATA': 0x0 Couldn't open 'menus\roadmap\frame_roadmap_right_slot_empty.bmp'
+LOAD::Can't open file menus\roadmap\frame_roadmap_right_slot_empty.bmp
+!!!ERROR 20:27:40!!!RES 'menus\img\roadmap\roadmap_item_background_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\roadmap\roadmap_item_background_00.png
+!!!ERROR 20:27:40!!!RES 'menus\img\roadmap\roadmap_text_background_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\roadmap\roadmap_text_background_00.png
+!!!ERROR 20:27:40!!!RES 'menus\img\map\spicial_offer_button_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\map\spicial_offer_button_00.png
+!!!ERROR 20:27:40!!!PICTURE 'menus\map\frame_special_offer_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\map\frame_special_offer_empty.bmp
+!!!ERROR 20:27:40!!!RES '' 'DATA': 0x0 Couldn't open 'menus\map\frame_special_offer_empty.bmp'
+LOAD::Can't open file menus\map\frame_special_offer_empty.bmp
+!!!ERROR 20:27:40!!!PICTURE 'menus\map\frame_salary_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\map\frame_salary_empty.bmp
+!!!ERROR 20:27:40!!!RES '' 'DATA': 0x0 Couldn't open 'menus\map\frame_salary_empty.bmp'
+LOAD::Can't open file menus\map\frame_salary_empty.bmp
+!!!ERROR 20:27:40!!!RES 'menus\img\map\spicial_offer_button_animation_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\map\spicial_offer_button_animation_00.png
+!!!ERROR 20:27:40!!!RES 'menus\img\market\more_button.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\market\more_button.png
+!!!ERROR 20:27:40!!!RES 'menus\img\common\button_base_sheet_gold_00.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\common\button_base_sheet_gold_00.png
+!!!ERROR 20:27:40!!!RES 'menus\img\map\spicial_offer_count_background.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\map\spicial_offer_count_background.png
+!!!ERROR 20:27:40!!!PICTURE 'menus\roadmap\frame_confirmation_recieve_vip_roadmap_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\roadmap\frame_confirmation_recieve_vip_roadmap_empty.bmp
+!!!ERROR 20:27:40!!!RES '' 'DATA': 0x0 Couldn't open 'menus\roadmap\frame_confirmation_recieve_vip_roadmap_empty.bmp'
+LOAD::Can't open file menus\roadmap\frame_confirmation_recieve_vip_roadmap_empty.bmp
+!!!ERROR 20:27:40!!!RES '' 'DATA': 0x0 Couldn't open 'vid\1725.vid'
+LOAD::Can't open file vid\1725.vid
+!!!ERROR 20:27:40!!!RES '' 'DATA': 0x0 Couldn't open 'vid\1726.vid'
+LOAD::Can't open file vid\1726.vid
+!!!ERROR 20:27:40!!!RES '' 'DATA': 0x0 Couldn't open 'vid\1728.vid'
+LOAD::Can't open file vid\1728.vid
+!!!ERROR 20:27:40!!!RES '' 'DATA': 0x0 Couldn't open 'vid\1730.vid'
+LOAD::Can't open file vid\1730.vid
+!!!ERROR 20:27:40!!!RES '' 'DATA': 0x0 Couldn't open 'vid\1726.vid'
+LOAD::Can't open file vid\1726.vid
+!!!ERROR 20:27:40!!!VID [1768-HIDE:Weapon: pistol_7_3]: 0x8 Invalid noCadr < noDir
+!!!ERROR 20:27:40!!!VID [1827-boots_legend_08]: 112 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:42!!!PICTURE 'menus\character\frame_common_statistic.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\character\frame_common_statistic.bmp
+!!!ERROR 20:27:42!!!RES '' 'DATA': 0x0 Couldn't open 'menus\character\frame_common_statistic.bmp'
+LOAD::Can't open file menus\character\frame_common_statistic.bmp
+!!!ERROR 20:27:42!!!PICTURE 'menus\character\frame_nightfall_statistic.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\character\frame_nightfall_statistic.bmp
+!!!ERROR 20:27:42!!!RES '' 'DATA': 0x0 Couldn't open 'menus\character\frame_nightfall_statistic.bmp'
+LOAD::Can't open file menus\character\frame_nightfall_statistic.bmp
+!!!ERROR 20:27:42!!!PICTURE 'menus\character\frame_survive_statistic.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\character\frame_survive_statistic.bmp
+!!!ERROR 20:27:42!!!RES '' 'DATA': 0x0 Couldn't open 'menus\character\frame_survive_statistic.bmp'
+LOAD::Can't open file menus\character\frame_survive_statistic.bmp
+!!!ERROR 20:27:42!!!VID [1950-Лес- Елка-Проходябельная1]: 0x2 Invalid noCadr < noDir
+!!!ERROR 20:27:42!!!VID [1955-Ферма - Стог-Для монстров]: 0x1 Invalid noCadr < noDir
+!!!ERROR 20:27:42!!!VID [1961-Известняк стена 2 этаж/]: 0x2 Invalid noCadr < noDir
+!!!ERROR 20:27:42!!!VID [1962-Известняк стена 2 этаж \]: 0x2 Invalid noCadr < noDir
+!!!ERROR 20:27:42!!!VID [1963-Известняк Окно 2этаж/]: 0x1 Invalid noCadr < noDir
+!!!ERROR 20:27:42!!!VID [1964-Известняк Окно 2этаж \]: 0x1 Invalid noCadr < noDir
+!!!ERROR 20:27:42!!!VID [1969-Дорога - Столб для монстров]: 0x2 Invalid noCadr < noDir
+!!!ERROR 20:27:42!!!VID [1990-бтр верхная часть без игрока]: 0x8 Invalid noCadr < noDir
+!!!ERROR 20:27:42!!!VID [1994-FX рождение Спецвыстрел монстра СНАЙПЕР]: 4 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:43!!!PICTURE 'menus\common\frame_button_get_bonus_empty.bmp': 0x0 Couldn't open ''
+LOAD::Can't open file menus\common\frame_button_get_bonus_empty.bmp
+!!!ERROR 20:27:43!!!RES '' 'DATA': 0x0 Couldn't open 'menus\common\frame_button_get_bonus_empty.bmp'
+LOAD::Can't open file menus\common\frame_button_get_bonus_empty.bmp
+!!!ERROR 20:27:43!!!VID [2046-Radius Skill Heal ICON]: 1 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:43!!!RES 'menus\img\common\perks_shift_marker.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\common\perks_shift_marker.png
+!!!ERROR 20:27:43!!!RES '' 'DATA': 0x0 Couldn't open 'vid\734.vid'
+LOAD::Can't open file vid\734.vid
+!!!ERROR 20:27:43!!!VID [2064-ПУЛЯ для каталика 2 perkMultipleLaunchSystem   ВИДИМАЯ]: 0x1 Invalid noCadr < noDir
+!!!ERROR 20:27:43!!!VID [2066-ПУЛЯ для каталика 2 perkBountyHunter   ВИДИМАЯ]: 0x1 Invalid noCadr < noDir
+!!!ERROR 20:27:43!!!VID [2068-ПУЛЯ для каталика 1 perkDecompression   ВИДИМАЯ]: 0x1 Invalid noCadr < noDir
+!!!ERROR 20:27:43!!!VID [2086-Radius Skill TIME ICON]: 1 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:43!!!VID [2097-Radius зона захватываемая Серая (нейтральная)]: 6 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:43!!!VID [2100-Radius зона захватываемая blue (команда 0)]: 6 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:43!!!VID [2101-Radius зона захватываемая red (команда 1)]: 6 Missing noCadr for noAnimCadr and noDir
+!!!ERROR 20:27:44!!!RES 'menus\img\multiplayer\substrate_slot_title.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\multiplayer\substrate_slot_title.png
+!!!ERROR 20:27:44!!!RES 'menus\img\multiplayer\substrate_slot_title.png' 'DATA': 0x0 Invalid resource signature
+LOAD::Can't open file menus\img\multiplayer\substrate_slot_title.png

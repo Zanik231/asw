@@ -1,0 +1,4 @@
+By killing enemies while in the 
+healing module, your allies 
+recharge their abilities faster, 
+and you prolong its effect.

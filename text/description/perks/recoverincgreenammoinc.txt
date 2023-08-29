@@ -1,0 +1,3 @@
+Increased speed of health recovery
+starting, increased energy 
+weapon ammunition.

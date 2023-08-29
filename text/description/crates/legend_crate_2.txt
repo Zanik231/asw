@@ -1,0 +1,7 @@
+A box containing particularly 
+valuable weapons and equipment. 
+Press "i" to view the items 
+contained and find out the 
+chance of falling out. The box 
+is opened with the help of 
+a special device - a Decoder.

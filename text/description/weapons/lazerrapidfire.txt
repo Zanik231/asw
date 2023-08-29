@@ -1,0 +1,5 @@
+Rapid-firing laser guns 
+
+A deadly weapon that releases a powerful volley of deadly rays capable 
+of destroying all life within reach. Due to the increased rate of fire, 
+this subclass has a limited firing range and slow reloading.

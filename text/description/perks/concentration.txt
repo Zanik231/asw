@@ -1,0 +1,3 @@
+Killing with this weapon temporally 
+increases effective firing range.
+Stacks 30x

@@ -1,0 +1,3 @@
+Continuously scans the surrounding 
+area in search of equipment. Picks up 
+ammo, money and other equipment.

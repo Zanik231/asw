@@ -1,0 +1,6 @@
+When resetting you:
+
+    - Return the DNA modifiers
+
+ - Return 50% of the money
+that was spent on skills

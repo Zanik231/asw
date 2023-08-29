@@ -1,0 +1,5 @@
+IMPROVEMENT:
+Release
+Been in the battle for a long time 
+increases projectiles explosion radius
+until the end of the battle.

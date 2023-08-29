@@ -1,0 +1,5 @@
+IMPROVEMENT:
+SEARCH SCANNER
+After selecting the equipment, the 
+drone leaves a mine in its place, 
+which explodes when enemies approach.

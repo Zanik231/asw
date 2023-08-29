@@ -1,0 +1,2 @@
+Decreased projectiles speed, 
+increased shoot grouping.

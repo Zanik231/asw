@@ -1,0 +1,4 @@
+Every 20 kills (1 kill for the arena)
+generates a part of the energy shield.
+Generation is increased if another 
+item with the same perk is used.

@@ -1,0 +1,4 @@
+IMPROVEMENT:
+PYROKINESIS
+The duration of fire has been 
+significantly increased.

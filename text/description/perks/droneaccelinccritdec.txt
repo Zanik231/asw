@@ -1,0 +1,2 @@
+Increased projectiles speed,
+normal chance for critical hit.

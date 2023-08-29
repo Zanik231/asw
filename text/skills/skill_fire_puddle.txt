@@ -1,0 +1,4 @@
+ACTIVE
+Allows you to aim a molotov cocktail. 
+The ignited surface deals periodic 
+damage to all enemies.

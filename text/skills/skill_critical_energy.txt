@@ -1,0 +1,4 @@
+PASSIVE
+Increased the chance of dealing 
+critical damage when firing 
+plasma guns.

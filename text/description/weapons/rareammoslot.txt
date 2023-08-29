@@ -1,0 +1,5 @@
+Energy
+
+Deal increased damage. The ammunition of weapons using this 
+type of ammo is limited.  It is recommended to use it in 
+particularly difficult situations.

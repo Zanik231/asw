@@ -1,0 +1,3 @@
+hold the joystick in the center for the automatic
+shooting, move the joystick in the desired direction 
+to shoot in the selected sector

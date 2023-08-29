@@ -1,0 +1,6 @@
+Light laser
+
+To speed up the recharge, the designers reduced the 
+length of the resonator and the width of the magnetic 
+stabilizing ring. This allowed to increase the recharge 
+rate.

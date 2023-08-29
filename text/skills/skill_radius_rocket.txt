@@ -1,0 +1,3 @@
+PASSIVE
+Increase radius of rocket and
+grenade launchers damage.

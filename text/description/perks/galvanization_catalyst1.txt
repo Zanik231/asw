@@ -1,0 +1,5 @@
+IMPROVEMENT:
+GALVANIZATION
+Shots from this weapon also
+temporarily stun enemies.
+Does not work in the Arena.

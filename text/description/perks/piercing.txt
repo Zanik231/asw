@@ -1,0 +1,1 @@
+Projectiles pierce through enemies.

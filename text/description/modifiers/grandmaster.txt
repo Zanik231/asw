@@ -1,0 +1,7 @@
+
+
+
+Health is not restored if there is no team nearby.
+Limited time and number of resurrections, you can
+earn by destroying champions.
+It is impossible to resurrect on your own.

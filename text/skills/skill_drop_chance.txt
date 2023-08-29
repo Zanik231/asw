@@ -1,0 +1,3 @@
+PASSIVE
+Increases the chance
+of equipment drop.

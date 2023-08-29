@@ -1,0 +1,4 @@
+Attention! The artifact's current power level will be reset to 1.
+After the reboot, you will receive rewards and will be able to 
+continue the game with a lower level of character strength.
+Do you really want to upgrade the artifact and collect the reward?

@@ -1,0 +1,4 @@
+PASSIVE
+Chance to completely avoid 
+damage from the barrels and 
+cylinders explosion.

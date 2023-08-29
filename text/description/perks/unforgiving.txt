@@ -1,0 +1,3 @@
+Killing with this weapon temporarily increases 
+the effective firing range. If stacks 30
+the running speed increases.

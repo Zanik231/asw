@@ -1,0 +1,3 @@
+PASSIVE
+Increase the plasma guns
+rate of fire.

@@ -1,0 +1,4 @@
+IMPROVEMENT:
+FEROCITY
+Ice shards also freeze
+enemies.

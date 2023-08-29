@@ -1,0 +1,5 @@
+Auto rifles
+
+The recruits' favorite weapon. They are characterized by an impressive 
+effective firing range, average damage and good mobility. Slightly reduce 
+the speed of movement during shooting.

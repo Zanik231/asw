@@ -1,0 +1,2 @@
+Killing with this weapon increases
+effective firing range for a shot time.

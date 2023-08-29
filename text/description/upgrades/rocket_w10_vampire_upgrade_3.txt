@@ -1,0 +1,7 @@
+IMPROVEMENT:
+CROOKSHANKS
+Shells after the explosion 
+leave a surface ignited 
+by an incendiary mixture, 
+which causes periodic 
+damage to enemies.

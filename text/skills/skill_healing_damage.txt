@@ -1,0 +1,3 @@
+PASSIVE
+Increase damage in healing 
+module activation area.

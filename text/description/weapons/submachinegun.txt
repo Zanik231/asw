@@ -1,0 +1,6 @@
+Submachine guns
+
+The best offensive weapon using kinetic ammunition. 
+They are characterized by maximum damage, a short effective shooting 
+distance and maximum mobility of a fighter armed with this type of weapon. 
+Reduce mobility during firing.

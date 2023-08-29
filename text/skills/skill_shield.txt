@@ -1,0 +1,4 @@
+ACTIVE
+Generates a temporary energy
+field around you that absorbs
+a certain amount of damage.

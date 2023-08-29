@@ -1,0 +1,6 @@
+ACTIVE
+Guns projectiles are reflected at 
+enemies once with reduced damage.
+Rocket and grenade launchers 
+become clustered and cause 
+damage over a larger area.

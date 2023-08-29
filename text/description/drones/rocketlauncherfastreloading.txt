@@ -1,0 +1,5 @@
+Rapid-firing rocket launcher
+
+These drones have an increased recharge rate
+and are capable of carpet bombing with a burst
+of missiles.

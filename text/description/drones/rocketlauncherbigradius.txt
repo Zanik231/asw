@@ -1,0 +1,4 @@
+Heavy rocket launcher
+
+The structural features of these drones make it possible to 
+significantly increase the radius of the projectile explosion. 

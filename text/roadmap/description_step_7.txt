@@ -1,0 +1,9 @@
+URANIUM POWER UNITS
+
+Use uranium power units to activate
+"standart code" and "recruit code"
+in collider.
+
+Additional Rewards:
+-salary increase
+-money

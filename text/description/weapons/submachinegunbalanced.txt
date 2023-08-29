@@ -1,0 +1,6 @@
+Assault submachine guns
+
+By creating this subclass of submachine guns, engineers tried to create 
+a universal weapon capable of successfully hitting targets at an increased 
+distance without loss in rate of fire and reloading speed. 
+There are many fighters who prefer this subclass of weapons to others.

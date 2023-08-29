@@ -1,0 +1,2 @@
+Kill 1000000 enemies
+with autorifle.

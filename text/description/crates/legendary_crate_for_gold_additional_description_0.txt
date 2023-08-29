@@ -1,0 +1,9 @@
+Probability of finding legendary equipment 
+changing with every open chest. If in the 
+current chest there is no legendary equipment, 
+the chance to find it in the next one 
+increases. When you finding legendary 
+equipment in the chest, chance to get another 
+one in the next chest decreases to normal 
+level. Max chance of finding legendary 
+equipment is 30%.

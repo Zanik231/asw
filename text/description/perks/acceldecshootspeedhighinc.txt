@@ -1,0 +1,2 @@
+Decreased projectiles speed, 
+greatly increased rate of fire.

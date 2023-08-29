@@ -1,0 +1,2 @@
+The chance of a projectile 
+ricochet after hitting the target.

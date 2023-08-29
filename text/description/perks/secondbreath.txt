@@ -1,0 +1,2 @@
+Recharging randomly accelerates 
+the recovery of abilities.

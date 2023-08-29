@@ -1,0 +1,5 @@
+Light machine guns 
+
+A universal subclass for experienced fighters who prefer machine 
+guns to other power weapons. 
+Averaged rates of fire, damage, and reload speed.

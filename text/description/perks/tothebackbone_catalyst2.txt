@@ -1,0 +1,5 @@
+IMPROVEMENT:
+PIERCING ANGER
+Finishing off enemies discs generate
+explosions with a certain radius of 
+destruction.

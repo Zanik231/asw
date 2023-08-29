@@ -1,0 +1,2 @@
+This nickname is already taken. 
+Try another one.

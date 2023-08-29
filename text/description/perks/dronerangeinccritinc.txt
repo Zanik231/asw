@@ -1,0 +1,2 @@
+Increased range of fire,
+increased chance for critical hit.

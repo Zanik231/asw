@@ -1,0 +1,3 @@
+Hits and kills from this weapon temporarily 
+increase the rate of fire. The effect is 
+reset after reloading. Stacks 20x 

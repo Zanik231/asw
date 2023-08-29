@@ -1,0 +1,4 @@
+Dron passively increases
+recover of skills. Releases 
+a burst of 10  missiles 
+during the attack.

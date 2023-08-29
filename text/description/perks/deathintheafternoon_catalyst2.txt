@@ -1,0 +1,5 @@
+IMPROVEMENT:
+DEATH IN THE AFTERNOON
+Shots from this weapon set 
+enemies on fire, causing them
+periodic damage.

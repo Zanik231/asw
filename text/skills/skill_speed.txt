@@ -1,0 +1,2 @@
+PASSIVE
+Increase the character's speed.

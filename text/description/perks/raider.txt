@@ -1,0 +1,3 @@
+Killing with this weapon temporally 
+increase movement and reloading speed.
+Stacks 15x

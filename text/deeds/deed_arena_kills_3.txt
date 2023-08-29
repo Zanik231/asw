@@ -1,0 +1,1 @@
+Destroy 500 enemies in the Arena.

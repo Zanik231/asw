@@ -1,0 +1,2 @@
+Increases damage on 
+the shields of champions.

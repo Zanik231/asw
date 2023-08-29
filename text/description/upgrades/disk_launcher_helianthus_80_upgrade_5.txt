@@ -1,0 +1,5 @@
+IMPROVEMENT:
+Berserk
+Killing with this weapon temporally 
+increase damage and speed.
+Stacks 15x

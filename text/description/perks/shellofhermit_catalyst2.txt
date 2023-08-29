@@ -1,0 +1,5 @@
+IMPROVEMENT:
+SHELL OF HERMIT 
+Enemies destroyed by the energy
+shield explode with a certain 
+radius of destruction.

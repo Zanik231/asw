@@ -1,0 +1,4 @@
+ACTIVE
+Generates a kinetic field around you, 
+within which all enemies receive 
+periodic damage.

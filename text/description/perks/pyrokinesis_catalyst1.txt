@@ -1,0 +1,3 @@
+IMPROVEMENT:
+PYROKINESIS
+Projectiles pierce through enemies.

@@ -1,0 +1,5 @@
+IMPROVEMENT:
+REGENERATION BEAM
+Damage while
+in the regeneration field
+is increased.

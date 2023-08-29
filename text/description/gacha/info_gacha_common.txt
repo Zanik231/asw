@@ -1,0 +1,23 @@
+Standart code is not time limited.
+In recruit code there are avaliable not excluzive legendary equipment.
+For every 10 codes you are guaranteed to receive at least one legendary starter class equipment item!
+
+Reguilary basic probability of receiving of all equipment is distributed evenly.
+Read special rules if any conditions or guarantees apply.
+
+Rules.
+Basic probability of dropping legendary first class equipment = 0,600%. Total probability
+(including the guaranteed prize)=1,600%. Dropping the legendary first class equipment at least once
+in 90 attempt is guaranteed.
+Basic probability of dropping legendary started class equipment = 5,100%. Total probability
+(including the guaranteed prize)=13,000%. Dropping legendary start and higher class equipment at least
+in 10 attempt is guaranteed. In this case probability to drop legendary start class equipment= 99,400% 
+and probability to drop legendary first class equipment=0,600%.
+
+Duplicates.
+If you have recurring legendary equipment of the first class, then from 2 to 7 they are converted into 
+increased equipment level. For 8 and more repetitive equipment of the first class
+you can get x25 Plutonium isotopes.
+If you have recurring legendary equipment of the start class, then from 2 to 7 they are converted into 
+increased equipment level. For 8 and more repetitive equipment of the initial class 
+you can get x5 Plutonium isotopes.

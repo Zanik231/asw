@@ -1,0 +1,4 @@
+IMPROVEMENT:
+PIERCING ANGER
+The radius of damage of the disks
+has been significantly increased.

@@ -1,0 +1,5 @@
+IMPROVEMENT:
+DEATH IN THE AFTERNOON
+The shot now ricochets in a random
+direction, dealing damage to nearby
+enemies.

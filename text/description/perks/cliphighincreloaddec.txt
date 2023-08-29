@@ -1,0 +1,2 @@
+Greatly increased magazine,
+size, slow reloading speed.

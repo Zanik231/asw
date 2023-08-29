@@ -1,0 +1,3 @@
+ACTIVE
+An anti-personnel grenade does 
+a lot of damage over a small area.

@@ -1,0 +1,2 @@
+Reloading after killing
+starts health recovering.

@@ -1,0 +1,3 @@
+Reloading randomly increases the effective 
+firing range depending on the number 
+of kills before reloading.

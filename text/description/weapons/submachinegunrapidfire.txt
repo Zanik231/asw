@@ -1,0 +1,5 @@
+Rapid-firing submachine guns
+
+Are characterized by reduced damage and slow reloading, 
+which is compensated by the maximum effective firing range among 
+the entire subclass of submachine guns.

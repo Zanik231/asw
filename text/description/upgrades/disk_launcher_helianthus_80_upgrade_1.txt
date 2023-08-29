@@ -1,0 +1,3 @@
+IMPROVEMENT:
+Decreased projectiles speed, 
+high chance to critical hit.

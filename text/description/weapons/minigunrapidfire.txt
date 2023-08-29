@@ -1,0 +1,6 @@
+Light auto rifles
+
+The maximum rate of fire, accelerated reloading 
+more than compensate for the reduced damage 
+of this subclass of weapons. The optimal choice 
+for fighters who prefer offensive tactics.

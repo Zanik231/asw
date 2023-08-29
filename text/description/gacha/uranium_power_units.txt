@@ -1,0 +1,3 @@
+Use uranium power units to activate
+"standart code" and "recruit code"
+in collider.

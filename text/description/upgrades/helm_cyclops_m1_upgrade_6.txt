@@ -1,0 +1,6 @@
+IMPROVEMENT:
+SHELL OF HERMIT 
+Enemies destroyed by the 
+invulnerability shield
+explode with a certain 
+radius of destruction.

@@ -1,0 +1,7 @@
+Unique equipment:14%
+Rare equipment:32%
+Uncommon equipment:54%
+Experience boost:4% 
+Materials for infuse:6%
+Power units:10%
+Money:60%

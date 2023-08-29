@@ -1,0 +1,2 @@
+After killing 30 enemies
+generates a healing aura.

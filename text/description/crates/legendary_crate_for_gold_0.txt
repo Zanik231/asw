@@ -1,0 +1,7 @@
+Legendary equipment:2%
+Unique equipment:23%
+Rare equipment:75%
+Experience boost:5% 
+Materials for infuse:13%
+Power units:15%
+Money:49%

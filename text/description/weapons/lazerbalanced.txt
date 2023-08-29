@@ -1,0 +1,5 @@
+Assault laser guns
+
+A universal subclass of laser weapons capable of effectively destroying 
+both armored targets and crowds of weak opponents. Average firing range, 
+slow reloading speed with a good rate of fire.

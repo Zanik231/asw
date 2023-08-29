@@ -1,0 +1,4 @@
+IMPROVEMENT:
+GALVANIZATION
+Shots from this weapon also
+temporarily stun enemies.

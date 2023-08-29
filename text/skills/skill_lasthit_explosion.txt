@@ -1,0 +1,5 @@
+ACTIVE
+When activated, any projectile that 
+finishes off an enemy generates 
+an explosion with a certain radius 
+of destruction.

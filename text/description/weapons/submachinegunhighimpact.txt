@@ -1,0 +1,5 @@
+Heavy submachine guns
+
+The reduced rate of fire and the minimum effective range of this subclass 
+of weapons is more than compensated for by accelerated reloading 
+and increased damage.

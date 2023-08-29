@@ -1,0 +1,2 @@
+Killing with grenades increases
+their recovery for a shot time.

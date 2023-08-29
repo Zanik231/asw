@@ -1,0 +1,2 @@
+Killing with this weapon accelerates 
+abilities recovery for a shot time.

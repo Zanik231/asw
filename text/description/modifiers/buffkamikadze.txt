@@ -1,0 +1,2 @@
+Increased Kamikazes' explosion 
+damage.

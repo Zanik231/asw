@@ -1,0 +1,2 @@
+Killing with this weapon increases
+damage for a shot time.

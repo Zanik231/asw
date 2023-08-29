@@ -1,0 +1,4 @@
+IMPROVEMENT:
+CROOKSHANKS
+This weapon reloads automatically 
+while not in use.

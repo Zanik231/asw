@@ -1,0 +1,5 @@
+Kinetic
+
+Cause minimal damage, which is compensated by large ammunition and 
+availability.  Weapons using kinetic ammunition are most suitable for 
+mopping up crowds of weak opponents.

@@ -1,0 +1,5 @@
+A box containing valuable weapons 
+and equipment. The probability of 
+falling out of unique equipment is 2%.
+The box is opened with the help 
+of a special device - a Decoder.

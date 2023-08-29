@@ -1,0 +1,2 @@
+PASSIVE
+Increase speed of health recover.

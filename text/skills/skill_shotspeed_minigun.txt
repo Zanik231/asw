@@ -1,0 +1,3 @@
+PASSIVE
+Increase the autorifles
+rate of fire.

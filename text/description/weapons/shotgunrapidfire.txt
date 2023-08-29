@@ -1,0 +1,5 @@
+Rapid-fire shotguns
+
+The increased range of these shotguns is achieved by reducing 
+the angle of dispersion of the shot. This subclass of weapons 
+is characterized by slow reloading and increased rate of fire.

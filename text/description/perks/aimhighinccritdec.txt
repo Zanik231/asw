@@ -1,0 +1,2 @@
+Greatly increased shoot grouping, 
+normal chance for critical hit.

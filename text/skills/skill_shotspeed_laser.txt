@@ -1,0 +1,3 @@
+PASSIVE
+Increase the laser guns
+rate of fire.

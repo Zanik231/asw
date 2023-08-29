@@ -1,0 +1,4 @@
+IMPROVEMENT:
+BATTLE TRANCE
+Healing Aura now deals
+damage to all enemies nearby.

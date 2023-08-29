@@ -1,0 +1,5 @@
+-drag left joystick icon 
+ to move
+
+-tap right joystick icon 
+ to fire

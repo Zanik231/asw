@@ -1,0 +1,6 @@
+IMPROVEMENT:
+FEROCITY
+After death, frozen enemies are 
+scattered into ice fragments, 
+which cause damage to surrounding 
+enemies.

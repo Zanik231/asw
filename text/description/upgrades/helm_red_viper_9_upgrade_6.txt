@@ -1,0 +1,5 @@
+IMPROVEMENT:
+BOUNTY HUNTER
+After the explosion, grenades cause
+additional damage with shrapnel over
+a huge area.

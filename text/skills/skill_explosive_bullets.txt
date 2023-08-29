@@ -1,0 +1,4 @@
+ACTIVE
+When active all projectiles exploding 
+after hitting the target and damage
+with shrapnel.

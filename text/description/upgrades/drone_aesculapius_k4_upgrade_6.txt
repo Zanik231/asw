@@ -1,0 +1,5 @@
+IMPROVEMENT:
+REGENERATION BEAM
+Weapon reloading while
+in the regeneration field 
+is accelerated.

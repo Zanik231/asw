@@ -1,0 +1,6 @@
+Attention! Low power of your 
+equipment. The damage received 
+and the health of monsters 
+are increased.  
+
+Continue?

@@ -1,0 +1,3 @@
+Reloading randomly increases 
+the rate of fire depending on the 
+number of kills before reloading.

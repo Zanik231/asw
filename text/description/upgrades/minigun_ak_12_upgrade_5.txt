@@ -1,0 +1,6 @@
+IMPROVEMENT:
+Weapon deals damage to red shields
+champions. After destroying the shield
+Champions are briefly stunned
+losing the ability to move
+attack and regenerate health.

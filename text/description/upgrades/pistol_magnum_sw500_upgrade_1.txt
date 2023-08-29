@@ -1,0 +1,2 @@
+IMPROVEMENT:
+Greatly increased explosion radius.

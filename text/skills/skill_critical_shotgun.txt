@@ -1,0 +1,4 @@
+PASSIVE
+Increase the chance of dealing 
+critical damage when firing 
+shotguns.

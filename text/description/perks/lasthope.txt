@@ -1,0 +1,3 @@
+After emptying the magazine, 
+this weapon fires from a grenade 
+launcher.

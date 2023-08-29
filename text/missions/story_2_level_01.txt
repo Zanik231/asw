@@ -1,0 +1,15 @@
+MISSION 16:
+occupied territory
+
+DESCRIPTION:
+the housing estate is devastated. 
+houses are empty, and not even 
+a single sound can be heard on 
+the streets.
+has anyone survived...
+
+OBJECTIVE:
+explore the streets of the 
+housing estate.
+all the monsters must be 
+destroyed.

@@ -1,0 +1,4 @@
+IMPROVEMENT:
+LEGION
+Speed of ability recovery 
+increases for all allies nearby.

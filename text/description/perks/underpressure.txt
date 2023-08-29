@@ -1,0 +1,3 @@
+Reloading randomly increases the radius 
+of the projectile explosion depending 
+on the number of kills before reloading.

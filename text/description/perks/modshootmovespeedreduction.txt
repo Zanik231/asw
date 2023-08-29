@@ -1,0 +1,2 @@
+Reduces slowdown
+when shooting.

@@ -1,0 +1,4 @@
+-tap the screen to move
+
+-use the joystic icon 
+ to fire

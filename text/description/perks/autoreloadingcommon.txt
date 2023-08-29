@@ -1,0 +1,2 @@
+Automatically reloads
+the stowed weapon.

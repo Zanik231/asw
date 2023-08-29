@@ -1,0 +1,4 @@
+IMPROVEMENT:
+BATTLE TRANCE
+The healing aura now works
+on all allies nearby.

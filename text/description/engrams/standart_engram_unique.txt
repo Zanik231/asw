@@ -1,0 +1,5 @@
+A box containing rare weapons 
+and equipment. The probability of 
+dropping legendary equipment is 2%. 
+The box is opened with the help 
+of a special device - a Decoder.

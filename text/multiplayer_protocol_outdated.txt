@@ -1,0 +1,6 @@
+Network game is not available
+because your game version is too old.
+
+
+
+Update the game:

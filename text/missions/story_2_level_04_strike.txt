@@ -1,0 +1,14 @@
+MISSION 19:
+testing laboratory
+
+DESCRIPTION:
+the story of creating the new 
+type of monsters began hereabout.
+the scientists were sitting on 
+their workplaces, looking into 
+microscopes. in their retorts, 
+a new life was arising, and now 
+this life must be destroyed...
+
+OBJECTIVE:
+explore laboratory rooms.

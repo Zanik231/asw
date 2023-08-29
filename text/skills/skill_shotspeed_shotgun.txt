@@ -1,0 +1,3 @@
+PASSIVE
+Increase the shotguns
+rate of fire.

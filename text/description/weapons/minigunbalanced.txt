@@ -1,0 +1,5 @@
+Assaul rifles
+
+A universal subclass, equally suitable for both offensive and defensive 
+purposes. They are able to effectively hit targets  
+with a good rate of fire, damage and reload speed.
